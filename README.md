@@ -1,2 +1,2 @@
-#This is News Portal 
-#Python and Django
+# This is News Portal 
+# Python and Django
